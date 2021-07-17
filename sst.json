@@ -1,0 +1,6 @@
+{
+  "name": "sst-lambda-validation",
+  "stage": "dev",
+  "region": "ap-south-1",
+  "lint": true
+}
