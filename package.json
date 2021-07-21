@@ -10,12 +10,21 @@
     "remove": "sst remove"
   },
   "devDependencies": {
-    "@aws-cdk/assert": "1.105.0"
+    "@aws-cdk/assert": "1.105.0",
+    "ajv-cli": "^5.0.0",
+    "ajv-formats": "^2.1.0",
+    "ajv-formats-draft2019": "^1.4.3"
   },
   "dependencies": {
+    "@aws-cdk/aws-s3": "1.105.0",
     "@aws-cdk/core": "1.105.0",
+    "@hapi/joi": "^17.1.1",
+    "@middy/core": "^2.4.3",
     "@serverless-stack/cli": "0.29.1",
     "@serverless-stack/resources": "0.29.1",
-    "ajv": "^6.12.6"
+    "ajv": "^6.12.6",
+    "aws-cdk-dynamodb-seeder": "^1.56.1",
+    "aws-xray-sdk": "^3.3.3",
+    "middy-ajv": "^2.0.0"
   }
 }

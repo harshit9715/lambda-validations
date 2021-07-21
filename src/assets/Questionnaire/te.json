@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "text": "లింగము?",
+        "default": "Gender?",
+        "options": {
+            "male": "పురుషుడు",
+            "female": "స్త్రీ",
+            "others": "ఇతరులు"
+        },
+        "inUse": true
+    },
+    {
+        "id": 2,
+        "text": "మీకు ఏమైనా అనారోగ్యాలు ఉన్నాయా?",
+        "default": "Do you have any ailments?",
+        "options": {
+            "Diabetes": "డయాబెటిస్",
+            "Cancer": "క్యాన్సర్",
+            "Stroke": "స్ట్రోక్"
+        },
+        "inUse": true
+    },
+    {
+        "id": 3,
+        "text": "లింగము?మీరు పొగత్రాగుతారా?",
+        "default": "Do you smoke?",
+        "options": {
+        "Yes":"అవును",
+        "No": "లేదు"
+      },
+        "inUse": false
+    }
+]

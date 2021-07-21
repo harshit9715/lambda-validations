@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "text": "Género?",
+        "default": "Género?",
+        "options": {
+          "Male":"Hombre",
+          "Female":"Mujer",
+          "Others":"Otro"
+        },
+        "inUse": true
+    },
+    {
+        "id": 2,
+        "text": "Tienes dolencias?",
+        "default": "Tienes dolencias?",
+        "options": {
+            "Diabetes":"Diabetes",
+            "Cancer":"Cáncer",
+            "Stroke":"Accidente cerebrovascular"
+        },
+        "inUse": true
+    },
+    {
+        "id": 3,
+        "text": "Fumas?",
+        "default": "Fumas?",
+        "options": {
+            "Yes": "Si",
+            "No": "No"
+        },
+        "inUse": false
+    }
+]

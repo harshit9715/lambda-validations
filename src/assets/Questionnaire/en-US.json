@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "text": "Gender?",
+      "default": "Gender?",
+      "options": {
+        "Male":"Male",
+        "Female":"Female",
+        "Others":"Others"
+      },
+      "inUse": true
+    },
+    {
+      "id": 2,
+      "text": "Do you have any ailments?",
+      "default": "Do you have any ailments?",
+      "options": {
+        "Diabetes":"Diabetes",
+        "Cancer":"Cancer",
+        "Stroke":"Stroke"
+      },
+      "inUse": true
+    },
+    {
+      "id": 3,
+      "text": "Do you smoke?",
+      "default": "Do you smoke?",
+      "options": {
+        "Yes": "Yes",
+        "No": "Yes"
+      },
+      "inUse": false
+    }
+  ]
